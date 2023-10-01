@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+
+
+
+![prllx](https://github.com/samik1234/react_parallax/assets/82882143/def05bba-77d0-4f2e-9f07-71399f32f5a6)
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
